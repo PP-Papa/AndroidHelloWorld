@@ -14,15 +14,11 @@ The following **required** functionality is completed:
 * [v] Button displayed on screen
 * [v] Toast with message appears when button is pressed 
 
-The following **optional** features are implemented:
-
-* [] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://github.com/PP-Papa/AndroidHelloWorld/blob/master/AndroidHelloWord.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/PP-Papa/AndroidHelloWorld/blob/master/AndroidHelloWorld.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap](http://www.cockos.com/licecap/).  
